@@ -1,2 +1,2 @@
 # SonoyucuMembershipGrabber
- 
+For education purposes. 
